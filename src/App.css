@@ -1,0 +1,9 @@
+.page-grid{
+  display:grid;
+  grid-template-columns: 2fr 5fr;
+  width:100vw;
+  height: 100vh;
+}
+.sidebar ul li {
+  list-style-type: none;
+}
